@@ -87,14 +87,10 @@ fi
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
 if [ "${BUILD_DOCX}" = "true" ]; then
   echo >&2 "Exporting Word Docx manuscript"
-  for f in content/*.md; do
-    pandoc --verbose \
-      --data-dir="$PANDOC_DATA_DIR" \
-      --defaults=common.yaml \
-      --defaults=docx.yaml
-      --output-file="${f%.md}.docx";
-  done
-  
+  pandoc --verbose \
+    --data-dir="$PANDOC_DATA_DIR" \
+    --defaults=common.yaml \
+    --defaults=docx.yaml
 fi
 
 # Create LaTeX output (if BUILD_LATEX environment variable equals "true")
