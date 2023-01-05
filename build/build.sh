@@ -93,7 +93,7 @@ if [ "${BUILD_DOCX}" = "true" ]; then
 #     --defaults=common.yaml \
 #     --defaults=docx.yaml
 #     --output-file=output/"${f%.md}.docx"
-    echo pandoc data-dir="$PANDOC_DATA_DIR" --output-file=output/"${f%.md}.docx"
+    echo pandoc data-dir="$PANDOC_DATA_DIR" --output-file=output/"${f%.md}.docx";
   done
 fi
 
