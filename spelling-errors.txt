@@ -6,11 +6,11 @@ ahorro
 alguna
 algunas
 Análisis
-Analizados
+analizados
 Anexo
 Aplicacion
 Aplicación
-aplicaciones
+Aplicaciones
 archimate
 archixml
 área
@@ -65,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-Esta
+esta
 estado
 están
 estas
@@ -107,7 +107,7 @@ Minuta
 misionales
 modeladas
 modelo
-Modelos
+modelos
 movil
 naranja
 necesidades
@@ -129,9 +129,9 @@ Parte
 partes
 pero
 pki
-Por
+por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
