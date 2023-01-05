@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-Capacidades
+capacidades
 Cargue
 carpeta
 cartera
@@ -61,11 +61,11 @@ ejercicio
 el
 Elaboración
 elementos
-Empresa
+empresa
 encontrada
 encontradas
 Entrega
-Esta
+esta
 estado
 están
 estas
@@ -88,6 +88,7 @@ gestionar
 gobierno
 hacemos
 Hijo
+hwong
 igual
 Importancia
 Importante
@@ -98,6 +99,7 @@ información
 insumo
 intersección
 ivr
+johndoe
 Legalización
 linea
 lista
@@ -105,13 +107,13 @@ manera
 más
 Minuta
 misionales
-Modeladas
+modeladas
 modelo
 modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -121,7 +123,7 @@ operación
 Operaciones
 Origen
 otra
-Otras
+otras
 otros
 pagos
 Palabras
@@ -168,6 +170,7 @@ siguientes
 sirve
 SOA
 soporte
+Stefanini
 su
 sustituta
 tecnología
@@ -188,3 +191,5 @@ Vicepresidencia
 Vínculos
 voluntario
 workmanager
+XXXX
+XXXXXXXX
