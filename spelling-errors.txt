@@ -6,11 +6,11 @@ ahorro
 alguna
 algunas
 Análisis
-Analizados
+analizados
 Anexo
 Aplicacion
 Aplicación
-Aplicaciones
+aplicaciones
 archimate
 archixml
 área
@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-capacidades
+Capacidades
 Cargue
 carpeta
 cartera
@@ -32,7 +32,7 @@ cesantias
 clave
 Cliente
 clientes
-cobis
+COBIS
 Comercial
 conocer
 Consecución
@@ -61,7 +61,7 @@ ejercicio
 el
 Elaboración
 elementos
-empresa
+Empresa
 encontrada
 encontradas
 Entrega
@@ -87,7 +87,6 @@ Gestión
 gestionar
 gobierno
 hacemos
-Hijo
 hwong
 igual
 Importancia
@@ -113,7 +112,7 @@ modelos
 movil
 naranja
 necesidades
-negocio
+Negocio
 negocios
 nivel
 Nombre
@@ -131,7 +130,7 @@ Parte
 partes
 pero
 pki
-por
+Por
 Portafolio
 Preliminar
 preliminares
@@ -148,7 +147,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-relación
+Relación
 Relacionada
 relacionar
 Relevancia
@@ -158,13 +157,12 @@ repositorio
 representativas
 responde
 resultará
-Secuencia
 segmento
 Seguimiento
 según
 seleccionados
 Servicio
-servicios
+Servicios
 sí
 siguientes
 sirve

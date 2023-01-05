@@ -15,8 +15,7 @@ content/01.Catalogo.md:3:Servicios
 content/01.Catalogo.md:3:SOA
 content/01.Catalogo.md:4:Autor
 content/01.Catalogo.md:5:Fuente
-content/01.Catalogo.md:6:Hijo
-content/01.Catalogo.md:6:Secuencia
+content/01.Catalogo.md:6:Versión
 content/01.Catalogo.md:7:Catálogo
 content/01.Catalogo.md:7:Catálogo
 content/01.Catalogo.md:7:FNA
