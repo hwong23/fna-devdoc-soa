@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-Capacidades
+capacidades
 Cargue
 carpeta
 cartera
@@ -32,7 +32,7 @@ cesantias
 clave
 Cliente
 clientes
-COBIS
+cobis
 Comercial
 conocer
 Consecución
@@ -61,11 +61,11 @@ ejercicio
 el
 Elaboración
 elementos
-Empresa
+empresa
 encontrada
 encontradas
 Entrega
-esta
+Esta
 estado
 están
 estas
@@ -106,13 +106,13 @@ manera
 más
 Minuta
 misionales
-modeladas
+Modeladas
 modelo
-modelos
+Modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -130,7 +130,7 @@ Parte
 partes
 pero
 pki
-Por
+por
 Portafolio
 Preliminar
 preliminares
