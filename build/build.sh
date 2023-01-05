@@ -91,11 +91,9 @@ if [ "${BUILD_DOCX}" = "true" ]; then
     pandoc --verbose \
       --data-dir="$PANDOC_DATA_DIR" \
       --defaults=common.yaml \
-      --to=docx \
+      --defaults=docx-i.yaml
       --output=output/"${f%.md}.docx" \
-      --reference-doc=build/themes/default.docx \
-      --resource-path='.':'content'
-
+    
     echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/"${f%.md}.docx";
   done
 
