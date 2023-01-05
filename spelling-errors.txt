@@ -56,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-Documentos
+documentos
 ejercicio
 el
 Elaboración
@@ -78,8 +78,8 @@ falta
 Financiera
 Firmas
 FN
-fna
-fondo
+FNA
+Fondo
 forma
 Fuente
 futuros
@@ -89,7 +89,7 @@ gobierno
 hacemos
 hwong
 igual
-importancia
+Importancia
 Importante
 importantes
 Imprimible
@@ -108,11 +108,11 @@ Minuta
 misionales
 modeladas
 modelo
-modelos
+Modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -132,11 +132,11 @@ pero
 pki
 Por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
-Procesos
+procesos
 Productos
 propuesta
 propuestas
@@ -162,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-servicios
+Servicios
 sí
 siguientes
 sirve
