@@ -6,7 +6,7 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/hwong23/fna-devdoc-soa/workflows/Manubot/badge.svg)](https://github.com/hwong23/fna-devdoc-soa/actions)
 
-## Manuscript description
+## devDocs Manuscript description
 
 <!-- usage note: edit this section. -->
 
