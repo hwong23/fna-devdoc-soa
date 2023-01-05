@@ -1,5 +1,4 @@
 abajo
-aca
 actuales
 Administración
 ae
@@ -7,11 +6,11 @@ ahorro
 alguna
 algunas
 Análisis
-analizados
+Analizados
 Anexo
 Aplicacion
 Aplicación
-aplicaciones
+Aplicaciones
 archimate
 archixml
 área
@@ -24,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-capacidades
+Capacidades
 Cargue
 carpeta
 cartera
@@ -57,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-Documentos
+documentos
 ejercicio
 el
 Elaboración
@@ -79,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-fna
+FNA
 Fondo
 forma
 Fuente
@@ -107,7 +106,7 @@ manera
 más
 Minuta
 misionales
-modeladas
+Modeladas
 modelo
 modelos
 movil
@@ -123,7 +122,7 @@ operación
 Operaciones
 Origen
 otra
-otras
+Otras
 otros
 pagos
 Palabras
@@ -131,7 +130,7 @@ Parte
 partes
 pero
 pki
-por
+Por
 Portafolio
 preliminar
 preliminares
@@ -148,7 +147,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-relación
+Relación
 Relacionada
 relacionar
 Relevancia
@@ -163,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-servicios
+Servicios
 sí
 siguientes
 sirve
