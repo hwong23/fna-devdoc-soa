@@ -83,9 +83,9 @@ jobs:
           environment-file: build/environment.yml
           auto-activate-base: false
           miniforge-version: 'latest'
-#     - name: Install Spellcheck
-#       if: env.SPELLCHECK == 'true'
-#       run: bash ci/install-spellcheck.sh
+      - name: Install Spellcheck
+        if: env.SPELLCHECK == 'true'
+        run: bash ci/install-spellcheck.sh
       - name: Build Manuscript
         run: bash build/build.sh
       - name: Upload Artifacts
