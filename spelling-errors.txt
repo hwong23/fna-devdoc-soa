@@ -61,11 +61,11 @@ ejercicio
 el
 Elaboración
 elementos
-Empresa
+empresa
 encontrada
 encontradas
 Entrega
-esta
+Esta
 estado
 están
 estas
@@ -105,13 +105,13 @@ manera
 más
 Minuta
 misionales
-Modeladas
+modeladas
 modelo
-modelos
+Modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -121,7 +121,7 @@ operación
 Operaciones
 Origen
 otra
-otras
+Otras
 otros
 pagos
 Palabras
@@ -146,7 +146,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-relación
+Relación
 Relacionada
 relacionar
 Relevancia
@@ -162,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-Servicios
+servicios
 sí
 siguientes
 sirve
