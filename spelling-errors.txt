@@ -10,7 +10,7 @@ analizados
 Anexo
 Aplicacion
 Aplicación
-Aplicaciones
+aplicaciones
 archimate
 archixml
 área
@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-capacidades
+Capacidades
 Cargue
 carpeta
 cartera
@@ -57,7 +57,6 @@ documentación
 Documental
 Documento
 Documentos
-ee
 ejercicio
 el
 Elaboración
@@ -66,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-Esta
+esta
 estado
 están
 estas
@@ -90,7 +89,7 @@ gobierno
 hacemos
 hwong
 igual
-Importancia
+importancia
 Importante
 importantes
 Imprimible
@@ -107,13 +106,13 @@ manera
 más
 Minuta
 misionales
-Modeladas
+modeladas
 modelo
-Modelos
+modelos
 movil
 naranja
 necesidades
-negocio
+Negocio
 negocios
 nivel
 Nombre
@@ -131,13 +130,13 @@ Parte
 partes
 pero
 pki
-por
+Por
 Portafolio
 Preliminar
 preliminares
 Previo
 proceso
-procesos
+Procesos
 Productos
 propuesta
 propuestas
@@ -163,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-Servicios
+servicios
 sí
 siguientes
 sirve
