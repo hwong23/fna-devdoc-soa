@@ -1,7 +1,7 @@
 # Pandoc --defaults for DOCX output.
 # Load on top of common defaults.
 to: docx
-#output-file: output/manuscript.docx
+output-file: output/FNA-manuscript.docx
 reference-doc: build/themes/default.docx
 resource-path:
  - '.'
