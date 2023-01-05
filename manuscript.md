@@ -1,14 +1,14 @@
 ---
-title: Manuscript Title
+title: Diagnóstico SOA Actual FNA
 keywords:
-- markdown
-- publishing
-- manubot
+- SOA
+- madurez
+- gobierno
 lang: en-US
 date-meta: '2023-01-05'
 author-meta:
-- John Doe
-- Jane Roe
+- Harry Wong
+- Stefanini.com
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,26 +16,26 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Diagnóstico SOA Actual FNA" />
+  <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
+  <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
+  <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
   <meta name="dc.date" content="2023-01-05" />
   <meta name="citation_publication_date" content="2023-01-05" />
   <meta property="article:published_time" content="2023-01-05" />
-  <meta name="dc.modified" content="2023-01-05T15:38:08+00:00" />
-  <meta property="article:modified_time" content="2023-01-05T15:38:08+00:00" />
+  <meta name="dc.modified" content="2023-01-05T15:46:40+00:00" />
+  <meta property="article:modified_time" content="2023-01-05T15:46:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Harry Wong" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Stefanini.com" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/99583c61fcfb2704f1983be158b7f9e475afda29/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/99583c61fcfb2704f1983be158b7f9e475afda29/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/99583c61fcfb2704f1983be158b7f9e475afda29/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/7cd56d7b5375f05f2c878b2a63ec21cf603ab723/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/7cd56d7b5375f05f2c878b2a63ec21cf603ab723/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/7cd56d7b5375f05f2c878b2a63ec21cf603ab723/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/fna-devdoc-soa/v/99583c61fcfb2704f1983be158b7f9e475afda29/))
+([permalink](https://hwong23.github.io/fna-devdoc-soa/v/7cd56d7b5375f05f2c878b2a63ec21cf603ab723/))
 was automatically generated
-from [hwong23/fna-devdoc-soa@99583c6](https://github.com/hwong23/fna-devdoc-soa/tree/99583c61fcfb2704f1983be158b7f9e475afda29)
+from [hwong23/fna-devdoc-soa@7cd56d7](https://github.com/hwong23/fna-devdoc-soa/tree/7cd56d7b5375f05f2c878b2a63ec21cf603ab723)
 on January 5, 2023.
 </em></small>
 
@@ -81,12 +81,12 @@ on January 5, 2023.
 
 
 
-+ **John Doe**
++ **Harry Wong**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [hwong23](https://github.com/hwong23)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     <br>
@@ -95,12 +95,12 @@ on January 5, 2023.
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
++ **Stefanini.com**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [hwong23](https://github.com/hwong23)
     <br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
@@ -110,7 +110,7 @@ on January 5, 2023.
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/hwong23/fna-devdoc-soa/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Stefanini.com \<jane.roe@whatever.edu\>.
 
 
 :::
