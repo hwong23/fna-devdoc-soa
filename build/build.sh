@@ -96,7 +96,7 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   #   --defaults=docx-i.yaml
   #   --output=output/"${basenameFILE%.md}.docx" \
   # 
-    echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/${basenameFILE%.md}.docx";
+    echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx";
   done
 
   pandoc --verbose \
