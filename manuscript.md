@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-06" />
   <meta name="citation_publication_date" content="2023-01-06" />
   <meta property="article:published_time" content="2023-01-06" />
-  <meta name="dc.modified" content="2023-01-06T12:42:29+00:00" />
-  <meta property="article:modified_time" content="2023-01-06T12:42:29+00:00" />
+  <meta name="dc.modified" content="2023-01-06T14:34:22+00:00" />
+  <meta property="article:modified_time" content="2023-01-06T14:34:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/ac8487d5001044a4ce2b18e86f70af50ba6256ad/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/ac8487d5001044a4ce2b18e86f70af50ba6256ad/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/ac8487d5001044a4ce2b18e86f70af50ba6256ad/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://hwong23.github.io/fna-devdoc-soa/v/ac8487d5001044a4ce2b18e86f70af50ba6256ad/))
+([permalink](https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/))
 was automatically generated
-from [hwong23/fna-devdoc-soa@ac8487d](https://github.com/hwong23/fna-devdoc-soa/tree/ac8487d5001044a4ce2b18e86f70af50ba6256ad)
+from [hwong23/fna-devdoc-soa@70efd96](https://github.com/hwong23/fna-devdoc-soa/tree/70efd96a3487c37bea83f0f9f88f7351d079722b)
 on 2023-01-06.
 </em></small>
 
@@ -102,7 +102,7 @@ on 2023-01-06.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor|  + **Harry Wong**<br> ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16} [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX) · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16} [hwong23](https://github.com/hwong23) · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16} [johndoe](https://twitter.com/johndoe)<br> <small> Department of Something, University of Whatever · Funded by Grant XXXXXXXX </small>  + **Stefanini.com**<br> ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16} [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX) · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16} [hwong23](https://github.com/hwong23)<br> <small> Department of Something, University of Whatever; Department of Whatever, University of Something </small> |
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-soa/v/ac8487d5001044a4ce2b18e86f70af50ba6256ad/)) [@ac8487d](https://github.com/hwong23/fna-devdoc-soa/tree/ac8487d5001044a4ce2b18e86f70af50ba6256ad) del 2023-01-06| |Secuencia|Padre<br>Hijo|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/)) [@70efd96](https://github.com/hwong23/fna-devdoc-soa/tree/70efd96a3487c37bea83f0f9f88f7351d079722b) del 2023-01-06| |Secuencia|Padre<br>Hijo|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
