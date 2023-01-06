@@ -11,14 +11,34 @@ jobs:
           node-version: '14'
       - run: npm install -g bats
       - run: bats -v
-      - name: Simple Version
-  # You may pin to the exact commit or the version.
-  # uses: xom9ikk/version-by-tag@51cd8322dc728ecbe50f6281e0dcbe626089562f
-        uses: xom9ikk/version-by-tag@v1
+      - name: Checkout Repository
+        uses: actions/checkout@v3
         with:
-          # The path to the git repository in which the last tag will be searched
-          path: # optional, default is ./
-          # Indicates whether to use a variable github.run_number from Github Actions to generate a version code
-          isUseGithubRunNumber: # optional, default is true
-          # The value to be added to the version code. If not 0, then the isUseGithubRunNumber parameter will be ignored
-          offset: # optional, default is 0
+          # fetch entire commit history to support get_rootstock_commit
+          fetch-depth: 0
+      - name: Set Environment Variables (Workflow Dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          echo "BUILD_PDF=${{ github.event.inputs.BUILD_PDF }}" >> $GITHUB_ENV
+          echo "BUILD_DOCX=${{ github.event.inputs.BUILD_DOCX }}" >> $GITHUB_ENV
+          echo "BUILD_LATEX=${{ github.event.inputs.BUILD_LATEX }}" >> $GITHUB_ENV
+          echo "SPELLCHECK=${{ github.event.inputs.SPELLCHECK }}" >> $GITHUB_ENV
+          echo "MANUBOT_USE_DOCKER=${{ github.event.inputs.MANUBOT_USE_DOCKER }}" >> $GITHUB_ENV
+      - name: Set Environment Variables
+        run: |
+          TRIGGERING_SHA=${GITHUB_PULL_REQUEST_SHA:-$GITHUB_SHA}
+          echo "TRIGGERING_SHA_7=${TRIGGERING_SHA::7}" >> $GITHUB_ENV
+          echo "TRIGGERING_SHA: $TRIGGERING_SHA"
+          DEFAULT_BRANCH=${{ github.event.repository.default_branch }}
+          echo "DEFAULT_BRANCH=${DEFAULT_BRANCH}" >> $GITHUB_ENV
+          echo "DEFAULT_BRANCH_REF=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
+          echo "DEFAULT_BRANCH=$DEFAULT_BRANCH"
+      - name: Cache
+        uses: actions/cache@v3
+        with:
+          path: ci/cache
+          key: ci-cache-${{ github.ref }}
+          restore-keys: |
+            ci-cache-${{ env.DEFAULT_BRANCH_REF }}
+      - name: Build Manuscript
+        run: bash build/build.sh
