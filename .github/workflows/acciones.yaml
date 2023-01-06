@@ -1,5 +1,5 @@
-name: learn-github-actions
-run-name: learning GitHub Actions
+name: devdoc-actions
+run-name: devdoc-actions
 on: [push]
 jobs:
   check-bats-version:
