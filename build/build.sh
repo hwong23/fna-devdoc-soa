@@ -90,13 +90,13 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   for f in content/*.md; do
     basenameFILE=${f##*/};
     
-  # pandoc --verbose \
-  #   --data-dir="$PANDOC_DATA_DIR" \
-  #   --defaults=common.yaml \
-  #   --defaults=docx-i.yaml
-  #   --output=output/"${basenameFILE%.md}.docx" \
-  # 
-    echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx";
+    pandoc --verbose \
+      --data-dir="$PANDOC_DATA_DIR" \
+      --defaults=common.yaml \
+      --defaults=docx-i.yaml
+      --output=output/"${basenameFILE%.md}.docx" \
+    
+    # echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx";
   done
 
   pandoc --verbose \

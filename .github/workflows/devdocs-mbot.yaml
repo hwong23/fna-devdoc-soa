@@ -1,4 +1,4 @@
-name: Manubot
+name: devdocs-mbot
 on:
   push:
     branches:
