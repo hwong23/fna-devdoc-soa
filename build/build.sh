@@ -87,17 +87,17 @@ fi
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
 if [ "${BUILD_DOCX}" = "true" ]; then
   echo >&2 "Exporting Word Docx manuscript"
-  for f in content/*.md; do
+  #for f in content/*.md; do
     basenameFILE=`basename $f`;
     
-    pandoc --verbose \
-      --data-dir="$PANDOC_DATA_DIR" \
-      --defaults=common.yaml \
-      --defaults=docx-i.yaml
-      --output=output/"${basenameFILE%.md}.docx" \
-    
-    echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/"${content/f%.md}.docx";
-  done
+  # pandoc --verbose \
+  #   --data-dir="$PANDOC_DATA_DIR" \
+  #   --defaults=common.yaml \
+  #   --defaults=docx-i.yaml
+  #   --output=output/"${basenameFILE%.md}.docx" \
+  # 
+    echo pandoc --data-dir=$"PANDOC_DATA_DIR" --output=output/${basenameFILE%.md}.docx";
+  #done
 
   pandoc --verbose \
     --data-dir="$PANDOC_DATA_DIR" \
