@@ -35,7 +35,7 @@ on:
         description: Use Docker to generate PDF
         default: true
 jobs:
-  manubot:
+  devdocs:
     name: Manubot
     runs-on: ubuntu-latest
     env:
