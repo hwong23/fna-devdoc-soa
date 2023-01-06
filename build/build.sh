@@ -97,7 +97,7 @@ if [ "${BUILD_DOCX}" = "true" ]; then
       --defaults=common-i.yaml \
       --defaults=docx-i.yaml \
       --output=output/"${basenameFILE%.md}.docx" \
-      $f
+      "$f"
     
   done
 
