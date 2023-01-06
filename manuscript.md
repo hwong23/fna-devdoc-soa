@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-06" />
   <meta name="citation_publication_date" content="2023-01-06" />
   <meta property="article:published_time" content="2023-01-06" />
-  <meta name="dc.modified" content="2023-01-06T14:34:22+00:00" />
-  <meta property="article:modified_time" content="2023-01-06T14:34:22+00:00" />
+  <meta name="dc.modified" content="2023-01-06T15:05:16+00:00" />
+  <meta property="article:modified_time" content="2023-01-06T15:05:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/020771afe3845f2fd8602b1c23c0696a33b83f9e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/020771afe3845f2fd8602b1c23c0696a33b83f9e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/020771afe3845f2fd8602b1c23c0696a33b83f9e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,226 +62,196 @@ manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
 
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos del Alcance
 
-<small><em>
-test edit - hello world. This manuscript
-([permalink](https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/))
-was automatically generated
-from [hwong23/fna-devdoc-soa@70efd96](https://github.com/hwong23/fna-devdoc-soa/tree/70efd96a3487c37bea83f0f9f88f7351d079722b)
-on 2023-01-06.
-</em></small>
+# Producto 1: PR1. SOA Actual
+Presentar la situación general SOA del Fondo Nacionnal del Ahorro (FNA) al año 2022 - 2023 desde organizada según las vistas de arquitectura. Por tanto, la situación general SOA del Fondo está comprendida por las vistas funcional, la de información, integración y la vista tecnológoca actual en donde destacan los sistemas de información (aplicaciones) críticas para el negocio, los servicios SOA y las tecnologías y proveedores que operan en el Fondo.
 
-## Authors
+## Justificación
+La arquitectura, organizada por vistas, se convierte en un medio de trabajo común entre negocio y tecnología. Adicionalmente, provee un vocabulario común y un espacio de análisis sobre las decisiones de arquitectura y su impacto en el negocio.  La estructura por vistas, es un estándar de organización de arquitectura  y se sugieren las mínimas necesarias para lograr comunicar de forma efectiva las decisiones relevantes que componen la propuesta de servicios actual del Fondo.
+
+## Contenidos
+1. Descripción de la vista Funcional Actual
+	* Vista de Contexto: objetivos del diagnóstico SOA, productos, áreas, y procesos FNA objeto del diagnóstico
+	* Vista de Segmento del ejercicio SOA del FNA
+	* Catálogo de servicios (blueprint) seleccionados FNA
+		* Áreas objeto del diagnóstico SOA
+		* Capacidades de negocio FNA relacionadas con servicios SOA
+		* Sistemas de información, aplicaciones y servicios
+		* Tipos de Servicios / Distribución de servicios SOA por tipo
+	* Servicios independientes (FNA debería tener)
+	* Procesos del FNA relacionados con los productos, objetivos, y áreas FNA objeto del diagnóstico SOA
+	* Arquitectura de referencia SOA del FNA
+1. Descripción de la vista de Información actual
+	* Portafolio de aplicaciones y proveedores
+	* Inventario de fuentes de datos
+1. Descripción de la vista de Integración actual
+	* Matriz de intercambio de información crítica del negocio
+	* Entidades de negocio (información y datos) relacionadas en la integración
+	* Conectores y servicios de integración
+	* Inventario de servicios por tipo (negocio, utilitarios, datos… )
+	* Conectores: necesidades de integración de las áreas del FNA objeto del diagnóstico SOA
+	* Interrelación Entre Servicios SOA del FNA
+1. Descripción de la vista Tecnológica actual
+	* Listado tecnológico del inventario de servicios
+1. Presentación del Método para el Análisis de Madurez SOA del FNA
+	* Cuestionarios de los objetivos del análisis
+	* Dimensiones del análisis (OSIMM)
+	* Herramienta de diagnóstico de nivel de madurez SOA
+
+## Criterios de Aceptación
+
+*   Descripción de las vistas funcionales para los dominios de negocio, información, Tecnológica e integración
+*   Análisis  y diagnóstico del nivel de madurez SOA
+
+*** 
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos del Alcance
+
+# Producto 2: Estudio de Madurez SOA FNA
+Exponer los resultados y las consideraciones sobresalientes del estudio de madurez SOA del Fondo Nacional del Ahorro (FNA). El resultado de este estudio dará elementos de base para contribuir a la estrategia SOA y construir un modelo inicial, tanto de brechas como de gobierno SOA, que mantengan la alineación con los objetivos de la consultoría y del negocio del Fondo.
+
+## Justificación
+Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandarizada los grados de cumplimiento de disciplinas temáticas.  Para el grado concreto de SOA, el modelo propuesto, permitirá establecer de forma general, el nivel de madurez de la organización en cuanto a la institucionalización, buenas prácticas de proceso y de producto  y el gobierno ;la arquitectura en el FNA. 
+
+## Contenidos
+1. Resultados y métricas del diagnóstico de madurez SOA
+1. Consideraciones y conclusiones respecto a la arquitectura estándar SOA
+1. Consideraciones y conclusiones respecto de las necesidades de integración
+1. Consideraciones y conclusiones respecto al gobierno SOA
+1. Implicaciones a otros proyectos del Fondo
+
+## Criterios de Aceptación
+   * Análisis del nivel de madurez SOA del FNA teniendo en cuenta las definiciones y criterios de evaluación de propuestas por el modelo OSIMM    
+   * Análisis de las necesidades de integración y Gobierno SOA  
 
 
 
-+ **Harry Wong**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [hwong23](https://github.com/hwong23)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos del Alcance
 
-+ **Stefanini.com**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [hwong23](https://github.com/hwong23)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
-  </small>
+# Producto 3: Resultado del Diagnóstico Situación Actual SOA del FNA
+Presentar las conclusiones y el resumen de los análisis de la Fase 1, Estado SOA Actual, constrastadas con una visión SOA estándar. Las conclusiones expuestas darán lugar a señalar futuras oportunidades y otros elementos de insumo de posteriores estudios de brechas, hojas de ruta, gobierno SOA, iniciaticas futuras.
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+## Justificación
+El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cualitativas sobre el estado actual de la arquitectura SOA en el FNA. Esta actividad arrojará como resultado conclusiones que permitirán encaminar el plan de actividades del estado futuro (TOBE) de la arquitectura.
+
+## Contenidos
+1. Análisis de alineación negocio / TI con SOA (VAL IT / ROI Model)
+1. Análisis de huella y dependencia tecnologica SOA del FNA
+1. Análisis de las fortalezas SOA del FNA
+1. Análisis de gobierno SOA (Gov and Interop Framework)
+1. Análisis de atributos de calidad SOA
+1. Oportunidades y beneficios SOA futuros. Requerimientos SOA (VAL IT)
+
+## Criterios de Aceptación
+* Análisis de la situación actual para los dominios de negocio, información, infraestructura y sistemas de información desde los objetivos de : dependencia de proveedor, forataleza SOA y el tiempo de mercado
+* Presentación y descripción de oportunidades de mejora y posibles nuevos requerimientos relacionados al ecosistema SOA
 
 
-|Tema|Catálogo de Servicios SOA: **Servicios SOA relevantes al diagnóstico**
-|----|-------------------------------------------------|
-|Palabras clave|SOA, Áreas, Capacidades, Servicios|
-|Autor|  + **Harry Wong**<br> ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16} [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX) · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16} [hwong23](https://github.com/hwong23) · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16} [johndoe](https://twitter.com/johndoe)<br> <small> Department of Something, University of Whatever · Funded by Grant XXXXXXXX </small>  + **Stefanini.com**<br> ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16} [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX) · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16} [hwong23](https://github.com/hwong23)<br> <small> Department of Something, University of Whatever; Department of Whatever, University of Something </small> |
-|Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-soa/v/70efd96a3487c37bea83f0f9f88f7351d079722b/)) [@70efd96](https://github.com/hwong23/fna-devdoc-soa/tree/70efd96a3487c37bea83f0f9f88f7351d079722b) del 2023-01-06| |Secuencia|Padre<br>Hijo|
-|Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
-<br>
 
-# Catálogo de Servicios FNA (blueprint)
+---
+Fase: Fase 1.2
+Tema: Estado SOA Actual
+Producto: PR4. Marcos Regulatorios, Normatividad y Referencias Tecnológicas
+---
 
-## Capacidades de la Empresa FNA
-No hay capacidades de negocio FNA en los modelos de la empresa, pero en la documentación del repositorio hay información sustituta con la que hacemos una propuesta de la vista de las capacidades FNA. Esta vista preliminar sirve para relacionar las capacidades preliminares con los servicios SOA de la empresa y con los demás elementos de la vista de segmento.
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos Contractuales, 181-2020
 
-Capacidades de negocio encontradas:
+# Producto 4: PR4. Marcos Regulatorios, Normatividad y Referencias Tecnológicas
+Describir y justificar la aplicación de los marcos legales seleccionados, restricciones del sector, y referentes tecnológicos aplicables el Fondo.
 
-1. Desarrollo de nuevos negocios
-1. Gestión de Cliente
-1. Administración de Recursos y Negocio
-1. Entrega de Productos
-1. Servicios de Cuentas
-1. Gestión Financiera
-
-_Fuente: Portafolio de Aplicaciones FNA._
-
-<br>
-
-## Importancia de las Capacidades y Servicios SOA (y otras partes de la empresa)
-La intersección de la vista de segmento del FNA con las capacidades de negocio propuestas por este ejercicio (en color naranja abajo) resultará en la lista de servicios de negocio más importantes para la empresa dado su nivel de relación con estas capacidades.
-
-![](images/FNA_ArquitecturaVistaCapacidadesFNA.png)
-
-<br>
-
-Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
-
-|**Parte FNA**|**Parte Relacionada**|**Tipo**|
-|-------------|---------------------|--------|
-|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-||Servicios COBIS|application-collaboration|
-|Entrega de Productos|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-||Servicios COBIS|application-collaboration|
-|Gestión de Cliente|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-||Servicios COBIS|application-collaboration|
-|Servicios de Cuentas|AS026-Gestión de Autenticación|**application-service**|
-||AS034-ConsultarestadocuentaCartera|**application-service**|
-||ASXX3-RegistrarRecaudoObligacion|**application-service**|
-||COBIS|application-component|
-
-_Fuente: arquitectura fna.archimate_
-
-<br>
-
-Las capacidades de mayor importancia para el FNA debido a su nivel superior de relación con las partes relevantes de la empresa son los siguientes
-
-|Nombre Origen|**Destino**|**Relevancia**|
-|-------------|-----------|--------------|
-|Desarrollo de nuevos negocios|COBIS|**96**|
-|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|8|
-|Desarrollo de nuevos negocios|AS034-ConsultarestadocuentaCartera|6|
-|Desarrollo de nuevos negocios|ASXX3-RegistrarRecaudoObligacion|5|
-|Desarrollo de nuevos negocios|Servicios COBIS|13|
-|**Total Desarrollo de nuevos negocios**||128|
-|Entrega de Productos|COBIS|**96**|
-|Entrega de Productos|AS026-Gestión de Autenticación|8|
-|Entrega de Productos|AS034-ConsultarestadocuentaCartera|6|
-|Entrega de Productos|ASXX3-RegistrarRecaudoObligacion|5|
-|Entrega de Productos|Servicios COBIS|13|
-|**Total Entrega de Productos**||128|
-|Gestión de Cliente|COBIS|**96**|
-|Gestión de Cliente|AS026-Gestión de Autenticación|8|
-|Gestión de Cliente|AS034-ConsultarestadocuentaCartera|6|
-|Gestión de Cliente|ASXX3-RegistrarRecaudoObligacion|5|
-|Gestión de Cliente|Servicios COBIS|13|
-|**Total Gestión de Cliente**||128|
-|Servicios de Cuentas|COBIS|**96**|
-|Servicios de Cuentas|AS026-Gestión de Autenticación|8|
-|Servicios de Cuentas|AS034-ConsultarestadocuentaCartera|6|
-|Servicios de Cuentas|ASXX3-RegistrarRecaudoObligacion|5|
-|**Total Servicios de Cuentas**||115|
-
-_Fuente: arquitectura fna.archimate_
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
 
 <br>
 
------
-
-
-
-# Areas de Negocio FNA
-
-|Tema|Catálogo de Servicios SOA: **Relación de Áreas de Negocio FNA y Servicios SOA**|
-|----|-------------------------------------------|
-|Palabras clave|SOA, Áreas de Negocio, Procesos
-|Autor||
-|Fuente|Modelos de arquitectura FNA |
-|Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
-|||
-
-En los modelos analizados (Anexo 2) no se evidencia relación de las áreas de negocio del FNA con otros elementos de la vista de segmento. Los modelos actuales no registran la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
-
-**Importante**: si falta esta relación en los modelos, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, y si estos responde a necesidades de negocio, o de operación, o de tecnología, o de alguna otra área o proceso.
-
-La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de Legalización.
-
-
-![Vista][embedView]
-_Fuente: ae_fna.archimate, ae_fna_as_is.archimate, ae_fna_tobe.archimate._
+## Justificación
+Identificar restricciones que modifiquen o afecten a las iniciativas y propuestas de solución SOA para el FNA.
 
 <br>
 
-Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas. Razón por la cual no tienen relación con los elementos relevantes de la empresa ni de este diagnóstico. 
+## Contenidos
+1. Lista de normatividad pública del sector ahorro
+    * Justificación de la selección de las normas
+    * Implicaciones para las capacidades SOA del FNA
 
-## Anexo 1. Áreas FNA Modeladas
-|Name|Type|
-|--------|--------|
-|1\. Cargue de insumo|business-function|
-|10\. Toma de Firmas Notariales|business-function|
-|11\. Validar estado Documental para Desembolso|business-function|
-|12\. Seguimiento de Registro|business-function|
-|13\. Consolidar carpeta Legal|business-function|
-|2\. Consulta de Documento|business-function|
-|3\. Estudio Preliminar Títulos|business-function|
-|4\. Análisis Previo - Análisis de capacidad de pagos|business-function|
-|5\. Consecución de Documentos|business-function|
-|6\. Recibir documentos|business-function|
-|7\. Avalúo Comercial|business-function|
-|8\. Estudio de Títulos – Imprimible|business-function|
-|9\. Elaboración de Minuta y Reparto Notarial|business-function|
-|Aplicacion de Negocio|business-function|
-|Aplicacion de Negocio (copy)|business-function|
-|Business Function|business-function|
-|FN1. Vicepresidencia de Crédito|business-function|
-|FN2. Vicepresidencia de Operaciones.|business-function|
-|Otras Áreas FNA|business-function|
-|Servicio de Negocio|business-function|
-|Servicio de Negocio (copy)|business-function|
-|Versión Aplicación|business-function|
-|Versión Aplicación (copy)|business-function|
-|Versiones Del Servicio|business-function|
-|Versiones Del Servicio|business-function|
+1. Referencias tecnológicas de la industria
+    * Justificación de la selección de las referencias
+    * Implicaciones para las capacidades SOA del FNA
 
 <br>
 
-## Anexo 2. Modelos Analizados
-* 2015-06-01 modelo arquitectura togaf - fna banca digital v6.archimate
-* aa002 - cobis ahorro voluntario.archimate
-* aa003-cobis cesantias.archimate
-* aa005-cobis cartera.archimate
-* aa006-cobis tramites.archimate
-* aa015-cobis clientes.archimate
-* aa020-banca virtual.archimate
-* aa021-fondo en linea.archimate
-* aa074-fondo en linea personal.archimate
-* **aa091-cobis cx.archimate**
-* **ae_fna.archimate**
-* **ae_fna_as_is.archimate**
-* ae_fna_tobe.archimate
-* arquitectura banca digital v4.archimate
-* **arquitectura fna.archimate**
-* arquitectura movil_v1.archimate
-* arquitectura movil_v2.archimate
-* fna_proyectos v2.0.archimate
-* information_architecture_bi_ba_md_archixml.archimate
-* ivr.archimate
-* pa0003-pki.archimate
-* workmanager.archimate
+## Criterios de Aceptación
 
-----
+* Correspondencia entre las marcos regulatorios, normas y referencias seleccionadas con los aspectos operativos o misionales del FNA
+* Identificacion de implicaciones positivas (o negativas) para el Fondo
 
-[embedView]: FNA_Arquitectura-Areas%20de%20Negocio%20FNA.png
+*** 
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 5: PR5. Vigilancia Tecnológica SOA
+Describir y justificar la selección de tecnologías y las técnicas de diseño, implementación y gestión de servicios SOA aplicables al Fondo Nacional del Ahorro (FNA).
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y propuestas de solución SOA para el FNA.
+
+<br>
+
+## Contenidos
+1. Lista tecnologías SOA afines al Fondo
+1. Lista de beneficios al FNA por las tecnologías seleccionadas
+1. Implicaciones para la adquisición y adopción tecnológica
+
+<br>
+
+## Criterios de Aceptación
+
+* Evaluación e Identificación de la tecnología SOA que mejor se alinea con los objetivos del proyecto. 
+* Presentación de una arquitectura de solución de Alto Nivel
 
 
-## References {.page_break_before}
+*** 
 
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 6: PR6. Comparativa de la industria y el FNA
+Describir y comparar con el Fondo la manera cómo las empresas del segmento y de otros sectores de la industria enfrentan los retos de flexibilidad de negocio, independencia de proveedor tecnológico, y fortaleza SOA.
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a sus procesos y productos. A la vez, estos mismos pueden ser traducidos en futuras iniciativas de una hoja de ruta de mejora tanto del gobierno como de los procesos SOA del Fondo.
+
+## Contenidos
+1. Niveles de adopción SOA en las organizaciones
+1. Focos de implementación SOA que pueden lograr las empresas
+1. Retornos de inversión (ROI) SOA posibles
+1. Retos que las empresas han superado por la implementación SOA
+1. Ventajas de rendimiento percibidas en las empresas por la implementación SOA
+1. Conclusiones de la comparativa: oportunidades SOA para el FNA
+
+<br>
+
+## Criterios de Aceptación
+
+* Lista de oportunidades e iniciativas ralizables por el FNA
+* Mejoras visibles para las capacidades de la arquitectura SOA del Fondo
+
+*** 
 
