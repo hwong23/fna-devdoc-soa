@@ -91,8 +91,9 @@ if [ "${BUILD_DOCX}" = "true" ]; then
     basenameFILE=${f##*/};
     
     pandoc --verbose \
+      --input:$f \
       --data-dir="$PANDOC_DATA_DIR" \
-      --defaults=common.yaml \
+      --defaults=common-i.yaml \
       --defaults=docx-i.yaml \
       --output=output/"${basenameFILE%.md}.docx"
     
