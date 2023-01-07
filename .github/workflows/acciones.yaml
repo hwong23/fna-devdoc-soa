@@ -40,5 +40,5 @@ jobs:
           key: ci-cache-${{ github.ref }}
           restore-keys: |
             ci-cache-${{ env.DEFAULT_BRANCH_REF }}
-      - name: Build Manuscript
+      - name: ---___ Build Manuscript ___---
         run: bash build/build.sh ${{github.job}} 
