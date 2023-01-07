@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-06'
+date-meta: '2023-01-07'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-06" />
-  <meta name="citation_publication_date" content="2023-01-06" />
-  <meta property="article:published_time" content="2023-01-06" />
-  <meta name="dc.modified" content="2023-01-06T16:53:31+00:00" />
-  <meta property="article:modified_time" content="2023-01-06T16:53:31+00:00" />
+  <meta name="dc.date" content="2023-01-07" />
+  <meta name="citation_publication_date" content="2023-01-07" />
+  <meta property="article:published_time" content="2023-01-07" />
+  <meta name="dc.modified" content="2023-01-07T03:41:41+00:00" />
+  <meta property="article:modified_time" content="2023-01-07T03:41:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/ae3a23db7b03963ce0cabef0443598a3021330b9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/ae3a23db7b03963ce0cabef0443598a3021330b9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/ae3a23db7b03963ce0cabef0443598a3021330b9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/cbe066c14e40768cdd6b0f478136208ee295b095/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/cbe066c14e40768cdd6b0f478136208ee295b095/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/cbe066c14e40768cdd6b0f478136208ee295b095/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -252,6 +252,64 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 
 * Lista de oportunidades e iniciativas ralizables por el FNA
 * Mejoras visibles para las capacidades de la arquitectura SOA del Fondo
+
+*** 
+
+
+# Fase 2: SOA Objetivo
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 7: PR7. Gobierno SOA
+...
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+...
+
+## Contenidos
+1. Definición de Objetivos y Capacidades del Gobierno SOA
+1. Equilibrio Arquitectura y Procesos SOA
+1. Supervisión de la Efectividad y Factibilidad SOA
+1. Mejora de los índices de Efectividad (madurez) SOA
+1. Consideraciones para la Puesta en Marcha del Gobierno SOA en el FNA
+
+
+<br>
+
+## Criterios de Aceptación
+
+* Uno
+* Dos
+
+*** 
+
+
+# Fase 2: SOA Objetivo
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 8: PR8. Arquitectura de Solución
+...
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+...
+
+## Contenidos
+1. Uno
+1. Dos
+
+<br>
+
+## Criterios de Aceptación
+
+* Uno
+* Dos
 
 *** 
 

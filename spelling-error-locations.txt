@@ -813,3 +813,87 @@ content/06.Fase1 PR6. Comparativa FNA industria.md:27:Fondo
 content/06.Fase1 PR6. Comparativa FNA industria.md:27:Mejoras
 content/06.Fase1 PR6. Comparativa FNA industria.md:27:SOA
 content/06.Fase1 PR6. Comparativa FNA industria.md:27:visibles
+content/07.Fase2 PR7 Gobierno SOA.md:1:Fase
+content/07.Fase2 PR7 Gobierno SOA.md:1:Objetivo
+content/07.Fase2 PR7 Gobierno SOA.md:1:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:2:Contenido
+content/07.Fase2 PR7 Gobierno SOA.md:2:Contractuales
+content/07.Fase2 PR7 Gobierno SOA.md:2:Productos
+content/07.Fase2 PR7 Gobierno SOA.md:4:Gobierno
+content/07.Fase2 PR7 Gobierno SOA.md:4:Producto
+content/07.Fase2 PR7 Gobierno SOA.md:4:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:7:análisis
+content/07.Fase2 PR7 Gobierno SOA.md:7:aplicaciones
+content/07.Fase2 PR7 Gobierno SOA.md:7:dependencia
+content/07.Fase2 PR7 Gobierno SOA.md:7:el
+content/07.Fase2 PR7 Gobierno SOA.md:7:este
+content/07.Fase2 PR7 Gobierno SOA.md:7:Nota
+content/07.Fase2 PR7 Gobierno SOA.md:7:objetivos
+content/07.Fase2 PR7 Gobierno SOA.md:7:producto
+content/07.Fase2 PR7 Gobierno SOA.md:7:proveedor
+content/07.Fase2 PR7 Gobierno SOA.md:7:provienen
+content/07.Fase2 PR7 Gobierno SOA.md:7:proyecto
+content/07.Fase2 PR7 Gobierno SOA.md:7:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:7:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:7:tiempo
+content/07.Fase2 PR7 Gobierno SOA.md:7:únicamente
+content/07.Fase2 PR7 Gobierno SOA.md:11:Justificación
+content/07.Fase2 PR7 Gobierno SOA.md:14:Contenidos
+content/07.Fase2 PR7 Gobierno SOA.md:15:Capacidades
+content/07.Fase2 PR7 Gobierno SOA.md:15:Definición
+content/07.Fase2 PR7 Gobierno SOA.md:15:Gobierno
+content/07.Fase2 PR7 Gobierno SOA.md:15:Objetivos
+content/07.Fase2 PR7 Gobierno SOA.md:15:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:16:Arquitectura
+content/07.Fase2 PR7 Gobierno SOA.md:16:Equilibrio
+content/07.Fase2 PR7 Gobierno SOA.md:16:Procesos
+content/07.Fase2 PR7 Gobierno SOA.md:16:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:17:Efectividad
+content/07.Fase2 PR7 Gobierno SOA.md:17:Factibilidad
+content/07.Fase2 PR7 Gobierno SOA.md:17:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:17:Supervisión
+content/07.Fase2 PR7 Gobierno SOA.md:18:Efectividad
+content/07.Fase2 PR7 Gobierno SOA.md:18:índices
+content/07.Fase2 PR7 Gobierno SOA.md:18:madurez
+content/07.Fase2 PR7 Gobierno SOA.md:18:Mejora
+content/07.Fase2 PR7 Gobierno SOA.md:18:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:19:Consideraciones
+content/07.Fase2 PR7 Gobierno SOA.md:19:el
+content/07.Fase2 PR7 Gobierno SOA.md:19:FNA
+content/07.Fase2 PR7 Gobierno SOA.md:19:Gobierno
+content/07.Fase2 PR7 Gobierno SOA.md:19:Marcha
+content/07.Fase2 PR7 Gobierno SOA.md:19:Puesta
+content/07.Fase2 PR7 Gobierno SOA.md:19:SOA
+content/07.Fase2 PR7 Gobierno SOA.md:24:Aceptación
+content/07.Fase2 PR7 Gobierno SOA.md:24:Criterios
+content/07.Fase2 PR7 Gobierno SOA.md:26:Uno
+content/08.Fase2 PR8 Arquitectura de Solución.md:1:Fase
+content/08.Fase2 PR8 Arquitectura de Solución.md:1:Objetivo
+content/08.Fase2 PR8 Arquitectura de Solución.md:1:SOA
+content/08.Fase2 PR8 Arquitectura de Solución.md:2:Contenido
+content/08.Fase2 PR8 Arquitectura de Solución.md:2:Contractuales
+content/08.Fase2 PR8 Arquitectura de Solución.md:2:Productos
+content/08.Fase2 PR8 Arquitectura de Solución.md:4:Arquitectura
+content/08.Fase2 PR8 Arquitectura de Solución.md:4:Producto
+content/08.Fase2 PR8 Arquitectura de Solución.md:4:Solución
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:análisis
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:aplicaciones
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:dependencia
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:el
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:este
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:Nota
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:objetivos
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:producto
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:proveedor
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:provienen
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:proyecto
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:SOA
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:SOA
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:tiempo
+content/08.Fase2 PR8 Arquitectura de Solución.md:7:únicamente
+content/08.Fase2 PR8 Arquitectura de Solución.md:11:Justificación
+content/08.Fase2 PR8 Arquitectura de Solución.md:14:Contenidos
+content/08.Fase2 PR8 Arquitectura de Solución.md:15:Uno
+content/08.Fase2 PR8 Arquitectura de Solución.md:20:Aceptación
+content/08.Fase2 PR8 Arquitectura de Solución.md:20:Criterios
+content/08.Fase2 PR8 Arquitectura de Solución.md:22:Uno
