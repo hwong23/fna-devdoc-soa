@@ -2,7 +2,7 @@
 
 ## build.sh: compile manuscript outputs from content using Manubot and Pandoc
 
-echo "param1 " $1
+echo "param1" $1 $2
 
 set -o errexit \
     -o nounset \
