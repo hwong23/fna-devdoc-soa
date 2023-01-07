@@ -37,7 +37,9 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   for f in content/*.md; do
     basenameFILE=${f##*/};
     
-    echo --data-dir="$PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx" $f id="$1" commit="${GITHUB_SHA}";
+    echo --data-dir="$PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx" $f id="$1" commit="${GITHUB_SHA::7}";
+    
+
   done
 fi
 
