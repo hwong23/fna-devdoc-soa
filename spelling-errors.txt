@@ -10,7 +10,7 @@ Ahorro
 Alcance
 alinea
 alineación
-análisis
+Análisis
 analizar
 año
 aplicables
@@ -18,7 +18,7 @@ aplicación
 aplicaciones
 áreas
 Áreas
-Arquitectura
+arquitectura
 arrojará
 aspectos
 atributos
@@ -27,11 +27,11 @@ beneficios
 brechas
 buenas
 calidad
-Capacidades
+capacidades
 Catálogo
 cómo
 comparar
-comparativa
+Comparativa
 componen
 comprendida
 común
@@ -39,7 +39,7 @@ comunicar
 Conclusiones
 concreto
 Conectores
-Consideraciones
+consideraciones
 constrastadas
 construir
 consultoría
@@ -69,7 +69,7 @@ definiciones
 dependencia
 desarrollo
 Describir
-Descripción
+descripción
 desde
 destacan
 diagnóstico
@@ -89,7 +89,7 @@ empresas
 encaminar
 enfrentan
 Entidades
-entre
+Entre
 Equilibrio
 espacio
 Esta
@@ -102,7 +102,7 @@ este
 estos
 estrategia
 estructura
-Estudio
+estudio
 estudios
 Evaluación
 evaluar
@@ -123,7 +123,7 @@ futuras
 futuro
 futuros
 gestión
-Gobierno
+gobierno
 grado
 grados
 hallazgos
@@ -136,7 +136,7 @@ Identificación
 Identificar
 impacto
 implementación
-Implicaciones
+implicaciones
 impulsen
 independencia
 independientes
@@ -149,11 +149,11 @@ iniciaticas
 iniciativas
 institucionalización
 insumo
-Integración
+integración
 intercambio
 Interop
 Interrelación
-inventario
+Inventario
 inversión
 Justificación
 justificar
@@ -169,7 +169,7 @@ Marcha
 Matriz
 medio
 mejor
-mejora
+Mejora
 Mejoras
 Método
 métricas
@@ -188,7 +188,7 @@ negocio
 nivel
 Niveles
 normas
-Normatividad
+normatividad
 Nota
 nuevos
 objetiva
@@ -197,7 +197,7 @@ Objetivos
 objeto
 operan
 operativos
-oportunidades
+Oportunidades
 organización
 organizaciones
 organizada
@@ -207,7 +207,7 @@ percibidas
 permiten
 permitirá
 permitirán
-Por
+por
 Portafolio
 posibles
 positivas
@@ -216,7 +216,7 @@ prácticas
 Presentación
 Presentar
 proceso
-procesos
+Procesos
 Producto
 productos
 propuesta
@@ -241,14 +241,14 @@ relacionadas
 relacionados
 relevantes
 rendimiento
-requerimientos
+Requerimientos
 respecto
 restricciones
-Resultado
-resultados
+resultado
+Resultados
 resumen
 Retornos
-retos
+Retos
 ROI
 ruta
 sectores
@@ -260,7 +260,7 @@ seleccionados
 señalar
 ser
 servicios
-sistemas
+Sistemas
 Situación
 SOA
 sobre
@@ -277,7 +277,7 @@ tecnología
 tecnologías
 tecnologica
 tecnológica
-Tecnológicas
+tecnológicas
 tecnológico
 tecnológicos
 tecnológoca
