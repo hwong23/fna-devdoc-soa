@@ -37,7 +37,7 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   for f in content/*.md; do
     basenameFILE=${f##*/};
     
-    echo --data-dir="$PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx" $f id="$1";
+    echo --data-dir="$PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx" $f id="$1" commit="${MANUBOT_CI_SOURCE_COMMIT}";
   done
 fi
 
