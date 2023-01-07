@@ -1,5 +1,5 @@
 name: devdoc-actions
-run-name: devdoc-actions
+#run-name: devdoc-actions
 on: [push]
 jobs:
   check-bats-version:
