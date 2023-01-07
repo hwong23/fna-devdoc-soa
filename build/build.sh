@@ -2,6 +2,8 @@
 
 ## build.sh: compile manuscript outputs from content using Manubot and Pandoc
 
+echo "param1 " $1
+
 set -o errexit \
     -o nounset \
     -o pipefail
@@ -35,14 +37,8 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   for f in content/*.md; do
     basenameFILE=${f##*/};
     
-    echo --data-dir="$PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx" $f id="${{ github.event.inputs.BUILD_PDF }}";
+    echo --data-dir="$PANDOC_DATA_DIR" --output=output/"${basenameFILE%.md}.docx" $f id="$1";
   done
-
-  pandoc --verbose \
-    --data-dir="$PANDOC_DATA_DIR" \
-    --defaults=common.yaml \
-    --defaults=docx.yaml
-
 fi
 
 echo >&2 "Build complete"
