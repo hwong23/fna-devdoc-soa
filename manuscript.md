@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-08" />
   <meta name="citation_publication_date" content="2023-01-08" />
   <meta property="article:published_time" content="2023-01-08" />
-  <meta name="dc.modified" content="2023-01-08T23:01:17+00:00" />
-  <meta property="article:modified_time" content="2023-01-08T23:01:17+00:00" />
+  <meta name="dc.modified" content="2023-01-08T23:09:30+00:00" />
+  <meta property="article:modified_time" content="2023-01-08T23:09:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/bbdf1d991e8bf6e7d9f1cd79c81267454c2bec3a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/bbdf1d991e8bf6e7d9f1cd79c81267454c2bec3a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/bbdf1d991e8bf6e7d9f1cd79c81267454c2bec3a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/52c49cb7b512bf0c55796012815dfa7fb834d371/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/52c49cb7b512bf0c55796012815dfa7fb834d371/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/52c49cb7b512bf0c55796012815dfa7fb834d371/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -220,3 +220,48 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 
 *** 
 
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos del Alcance
+
+# Producto 1: PR1. SOA Actual
+Presentar la situación general SOA del Fondo Nacionnal del Ahorro (FNA) al año 2022 - 2023 desde organizada según las vistas de arquitectura. Por tanto, la situación general SOA del Fondo está comprendida por las vistas funcional, la de información, integración y la vista tecnológoca actual en donde destacan los sistemas de información (aplicaciones) críticas para el negocio, los servicios SOA y las tecnologías y proveedores que operan en el Fondo.
+
+## Justificación
+La arquitectura, organizada por vistas, se convierte en un medio de trabajo común entre negocio y tecnología. Adicionalmente, provee un vocabulario común y un espacio de análisis sobre las decisiones de arquitectura y su impacto en el negocio.  La estructura por vistas, es un estándar de organización de arquitectura  y se sugieren las mínimas necesarias para lograr comunicar de forma efectiva las decisiones relevantes que componen la propuesta de servicios actual del Fondo.
+
+## Contenidos
+1. Descripción de la vista Funcional Actual
+	* Vista de Contexto: objetivos del diagnóstico SOA, productos, áreas, y procesos FNA objeto del diagnóstico
+	* Vista de Segmento del ejercicio SOA del FNA
+	* Catálogo de servicios (blueprint) seleccionados FNA
+		* Áreas objeto del diagnóstico SOA
+		* Capacidades de negocio FNA relacionadas con servicios SOA
+		* Sistemas de información, aplicaciones y servicios
+		* Tipos de Servicios / Distribución de servicios SOA por tipo
+	* Servicios independientes (FNA debería tener)
+	* Procesos del FNA relacionados con los productos, objetivos, y áreas FNA objeto del diagnóstico SOA
+	* Arquitectura de referencia SOA del FNA
+1. Descripción de la vista de Información actual
+	* Portafolio de aplicaciones y proveedores
+	* Inventario de fuentes de datos
+1. Descripción de la vista de Integración actual
+	* Matriz de intercambio de información crítica del negocio
+	* Entidades de negocio (información y datos) relacionadas en la integración
+	* Conectores y servicios de integración
+	* Inventario de servicios por tipo (negocio, utilitarios, datos… )
+	* Conectores: necesidades de integración de las áreas del FNA objeto del diagnóstico SOA
+	* Interrelación Entre Servicios SOA del FNA
+1. Descripción de la vista Tecnológica actual
+	* Listado tecnológico del inventario de servicios
+1. Presentación del Método para el Análisis de Madurez SOA del FNA
+	* Cuestionarios de los objetivos del análisis
+	* Dimensiones del análisis (OSIMM)
+	* Herramienta de diagnóstico de nivel de madurez SOA
+
+## Criterios de Aceptación
+
+*   Descripción de las vistas funcionales para los dominios de negocio, información, Tecnológica e integración
+*   Análisis  y diagnóstico del nivel de madurez SOA
+
+*** 
