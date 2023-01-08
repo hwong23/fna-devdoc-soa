@@ -41,4 +41,4 @@ jobs:
           restore-keys: |
             ci-cache-${{ env.DEFAULT_BRANCH_REF }}
       - name: ---___ Build Manuscript ___---
-        run: bash build/build.sh ${{github.env.triggering_sha_7}}
+        run: bash build/build.sh ${TRIGGERING_SHA_7}
