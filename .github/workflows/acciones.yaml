@@ -1,5 +1,5 @@
 name: devdoc-actions
-run-name: devdoc ${{ github.event.head_commit.message }}
+run-name: devdoc ${{github.pull.request.sha}} ${{ github.event.head_commit.message }}
 on: [push]
 jobs:
   check-bats-version:
@@ -41,4 +41,4 @@ jobs:
           restore-keys: |
             ci-cache-${{ env.DEFAULT_BRANCH_REF }}
       - name: ---___ Build Manuscript ___---
-        run: bash build/build.sh ${{github.job}} 
+        run: bash build/build.sh
