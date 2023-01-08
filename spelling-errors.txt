@@ -3,7 +3,7 @@ adopción
 adquisición
 afecten
 afines
-ahorro
+Ahorro
 alinea
 análisis
 aplicables
@@ -54,7 +54,7 @@ Identificacion
 Identificación
 Identificar
 implementación
-implicaciones
+Implicaciones
 impulsen
 independencia
 índices
@@ -84,7 +84,7 @@ normas
 Normatividad
 Nota
 Objetivo
-objetivos
+Objetivos
 operativos
 oportunidades
 organizaciones
@@ -96,7 +96,7 @@ positivas
 Presentación
 Procesos
 producto
-Productos
+productos
 propuestas
 proveedor
 proveerá
@@ -106,13 +106,13 @@ pública
 pueden
 Puesta
 ralizables
-Referencias
+referencias
 referentes
-Regulatorios
+regulatorios
 rendimiento
 restricciones
 Retornos
-retos
+Retos
 ROI
 ruta
 sectores
@@ -123,7 +123,7 @@ seleccionados
 ser
 servicios
 SOA
-solución
+Solución
 superado
 Supervisión
 sus

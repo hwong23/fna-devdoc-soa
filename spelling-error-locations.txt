@@ -386,272 +386,272 @@ content/08.Fase2 PR8 Arquitectura de Solución.md:15:Uno
 content/08.Fase2 PR8 Arquitectura de Solución.md:20:Aceptación
 content/08.Fase2 PR8 Arquitectura de Solución.md:20:Criterios
 content/08.Fase2 PR8 Arquitectura de Solución.md:22:Uno
-content/Fase1 PR1 SOA Actual.md:1:Estado
-content/Fase1 PR1 SOA Actual.md:1:Fase
-content/Fase1 PR1 SOA Actual.md:1:SOA
-content/Fase1 PR1 SOA Actual.md:2:Contenido
-content/Fase1 PR1 SOA Actual.md:2:Productos
-content/Fase1 PR1 SOA Actual.md:4:Producto
-content/Fase1 PR1 SOA Actual.md:4:SOA
-content/Fase1 PR1 SOA Actual.md:5:Ahorro
-content/Fase1 PR1 SOA Actual.md:5:aplicaciones
-content/Fase1 PR1 SOA Actual.md:5:arquitectura
-content/Fase1 PR1 SOA Actual.md:5:el
-content/Fase1 PR1 SOA Actual.md:5:el
-content/Fase1 PR1 SOA Actual.md:5:FNA
-content/Fase1 PR1 SOA Actual.md:5:Fondo
-content/Fase1 PR1 SOA Actual.md:5:Fondo
-content/Fase1 PR1 SOA Actual.md:5:Fondo
-content/Fase1 PR1 SOA Actual.md:5:negocio
-content/Fase1 PR1 SOA Actual.md:5:por
-content/Fase1 PR1 SOA Actual.md:5:Por
-content/Fase1 PR1 SOA Actual.md:5:servicios
-content/Fase1 PR1 SOA Actual.md:5:SOA
-content/Fase1 PR1 SOA Actual.md:5:SOA
-content/Fase1 PR1 SOA Actual.md:5:SOA
-content/Fase1 PR1 SOA Actual.md:5:tanto
-content/Fase1 PR1 SOA Actual.md:5:tecnologías
-content/Fase1 PR1 SOA Actual.md:7:Justificación
-content/Fase1 PR1 SOA Actual.md:8:análisis
-content/Fase1 PR1 SOA Actual.md:8:arquitectura
-content/Fase1 PR1 SOA Actual.md:8:arquitectura
-content/Fase1 PR1 SOA Actual.md:8:arquitectura
-content/Fase1 PR1 SOA Actual.md:8:el
-content/Fase1 PR1 SOA Actual.md:8:entre
-content/Fase1 PR1 SOA Actual.md:8:Fondo
-content/Fase1 PR1 SOA Actual.md:8:lograr
-content/Fase1 PR1 SOA Actual.md:8:negocio
-content/Fase1 PR1 SOA Actual.md:8:negocio
-content/Fase1 PR1 SOA Actual.md:8:por
-content/Fase1 PR1 SOA Actual.md:8:por
-content/Fase1 PR1 SOA Actual.md:8:servicios
-content/Fase1 PR1 SOA Actual.md:8:tecnología
-content/Fase1 PR1 SOA Actual.md:10:Contenidos
-content/Fase1 PR1 SOA Actual.md:12:FNA
-content/Fase1 PR1 SOA Actual.md:12:objetivos
-content/Fase1 PR1 SOA Actual.md:12:procesos
-content/Fase1 PR1 SOA Actual.md:12:productos
-content/Fase1 PR1 SOA Actual.md:12:SOA
-content/Fase1 PR1 SOA Actual.md:13:FNA
-content/Fase1 PR1 SOA Actual.md:13:Segmento
-content/Fase1 PR1 SOA Actual.md:13:SOA
-content/Fase1 PR1 SOA Actual.md:14:FNA
-content/Fase1 PR1 SOA Actual.md:14:seleccionados
-content/Fase1 PR1 SOA Actual.md:14:servicios
-content/Fase1 PR1 SOA Actual.md:15:SOA
-content/Fase1 PR1 SOA Actual.md:16:Capacidades
-content/Fase1 PR1 SOA Actual.md:16:FNA
-content/Fase1 PR1 SOA Actual.md:16:negocio
-content/Fase1 PR1 SOA Actual.md:16:servicios
-content/Fase1 PR1 SOA Actual.md:16:SOA
-content/Fase1 PR1 SOA Actual.md:17:aplicaciones
-content/Fase1 PR1 SOA Actual.md:17:servicios
-content/Fase1 PR1 SOA Actual.md:18:por
-content/Fase1 PR1 SOA Actual.md:18:servicios
-content/Fase1 PR1 SOA Actual.md:18:Servicios
-content/Fase1 PR1 SOA Actual.md:18:SOA
-content/Fase1 PR1 SOA Actual.md:19:FNA
-content/Fase1 PR1 SOA Actual.md:19:Servicios
-content/Fase1 PR1 SOA Actual.md:20:FNA
-content/Fase1 PR1 SOA Actual.md:20:FNA
-content/Fase1 PR1 SOA Actual.md:20:objetivos
-content/Fase1 PR1 SOA Actual.md:20:Procesos
-content/Fase1 PR1 SOA Actual.md:20:productos
-content/Fase1 PR1 SOA Actual.md:20:SOA
-content/Fase1 PR1 SOA Actual.md:21:Arquitectura
-content/Fase1 PR1 SOA Actual.md:21:FNA
-content/Fase1 PR1 SOA Actual.md:21:SOA
-content/Fase1 PR1 SOA Actual.md:23:aplicaciones
-content/Fase1 PR1 SOA Actual.md:26:negocio
-content/Fase1 PR1 SOA Actual.md:27:negocio
-content/Fase1 PR1 SOA Actual.md:28:servicios
-content/Fase1 PR1 SOA Actual.md:29:negocio
-content/Fase1 PR1 SOA Actual.md:29:por
-content/Fase1 PR1 SOA Actual.md:29:servicios
-content/Fase1 PR1 SOA Actual.md:30:FNA
-content/Fase1 PR1 SOA Actual.md:30:SOA
-content/Fase1 PR1 SOA Actual.md:31:Entre
-content/Fase1 PR1 SOA Actual.md:31:FNA
-content/Fase1 PR1 SOA Actual.md:31:Servicios
-content/Fase1 PR1 SOA Actual.md:31:SOA
-content/Fase1 PR1 SOA Actual.md:32:Tecnológica
-content/Fase1 PR1 SOA Actual.md:33:servicios
-content/Fase1 PR1 SOA Actual.md:33:tecnológico
-content/Fase1 PR1 SOA Actual.md:34:Análisis
-content/Fase1 PR1 SOA Actual.md:34:el
-content/Fase1 PR1 SOA Actual.md:34:FNA
-content/Fase1 PR1 SOA Actual.md:34:Madurez
-content/Fase1 PR1 SOA Actual.md:34:Presentación
-content/Fase1 PR1 SOA Actual.md:34:SOA
-content/Fase1 PR1 SOA Actual.md:35:análisis
-content/Fase1 PR1 SOA Actual.md:35:objetivos
-content/Fase1 PR1 SOA Actual.md:36:análisis
-content/Fase1 PR1 SOA Actual.md:37:madurez
-content/Fase1 PR1 SOA Actual.md:37:nivel
-content/Fase1 PR1 SOA Actual.md:37:SOA
-content/Fase1 PR1 SOA Actual.md:39:Aceptación
-content/Fase1 PR1 SOA Actual.md:39:Criterios
-content/Fase1 PR1 SOA Actual.md:41:negocio
-content/Fase1 PR1 SOA Actual.md:41:Tecnológica
-content/Fase1 PR1 SOA Actual.md:42:Análisis
-content/Fase1 PR1 SOA Actual.md:42:madurez
-content/Fase1 PR1 SOA Actual.md:42:nivel
-content/Fase1 PR1 SOA Actual.md:42:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:1:Estado
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:1:Fase
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:1:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:2:Contenido
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:2:Productos
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:4:FNA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:4:Madurez
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:4:Producto
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:4:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:Ahorro
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:consideraciones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:El
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:este
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:FNA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:Fondo
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:Fondo
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:gobierno
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:madurez
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:Nacional
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:negocio
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:objetivos
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:5:tanto
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:7:Justificación
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:arquitectura
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:FNA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:gobierno
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:madurez
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:madurez
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:nivel
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:producto
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:8:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:10:Contenidos
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:11:madurez
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:11:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:12:arquitectura
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:12:conclusiones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:12:Consideraciones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:12:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:13:conclusiones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:13:Consideraciones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:14:conclusiones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:14:Consideraciones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:14:gobierno
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:14:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:15:Fondo
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:15:Implicaciones
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:15:otros
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:17:Aceptación
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:17:Criterios
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:Análisis
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:criterios
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:el
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:evaluación
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:FNA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:madurez
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:nivel
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:por
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:propuestas
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:18:SOA
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:19:Análisis
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:19:Gobierno
-content/Fase1 PR2 Estudio Madurez SOA FNA.md:19:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:1:Estado
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:1:Fase
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:1:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:2:Contenido
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:2:Productos
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:FNA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:Producto
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:conclusiones
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:conclusiones
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:el
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:Estado
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:Fase
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:futuras
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:futuras
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:gobierno
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:oportunidades
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:otros
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:ruta
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:una
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:aplicaciones
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:dependencia
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:el
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:este
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:Nota
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:objetivos
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:producto
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:proveedor
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:provienen
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:proyecto
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:tiempo
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:únicamente
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:9:Justificación
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:arquitectura
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:arquitectura
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:conclusiones
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:el
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:el
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:el
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:El
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:estado
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:estado
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:FNA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:tanto
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:12:Contenidos
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:Análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:negocio
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:ROI
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:Análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:dependencia
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:FNA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:Análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:FNA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:Análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:gobierno
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:17:Análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:17:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:beneficios
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:Oportunidades
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:20:Aceptación
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:20:Criterios
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:Análisis
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:dependencia
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:el
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:negocio
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:objetivos
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:proveedor
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:SOA
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:tiempo
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:mejora
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:oportunidades
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:posibles
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:Presentación
-content/Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:SOA
+content/Fase1 PR1.SOA Actual.md:1:Estado
+content/Fase1 PR1.SOA Actual.md:1:Fase
+content/Fase1 PR1.SOA Actual.md:1:SOA
+content/Fase1 PR1.SOA Actual.md:2:Contenido
+content/Fase1 PR1.SOA Actual.md:2:Productos
+content/Fase1 PR1.SOA Actual.md:4:Producto
+content/Fase1 PR1.SOA Actual.md:4:SOA
+content/Fase1 PR1.SOA Actual.md:5:Ahorro
+content/Fase1 PR1.SOA Actual.md:5:aplicaciones
+content/Fase1 PR1.SOA Actual.md:5:arquitectura
+content/Fase1 PR1.SOA Actual.md:5:el
+content/Fase1 PR1.SOA Actual.md:5:el
+content/Fase1 PR1.SOA Actual.md:5:FNA
+content/Fase1 PR1.SOA Actual.md:5:Fondo
+content/Fase1 PR1.SOA Actual.md:5:Fondo
+content/Fase1 PR1.SOA Actual.md:5:Fondo
+content/Fase1 PR1.SOA Actual.md:5:negocio
+content/Fase1 PR1.SOA Actual.md:5:por
+content/Fase1 PR1.SOA Actual.md:5:Por
+content/Fase1 PR1.SOA Actual.md:5:servicios
+content/Fase1 PR1.SOA Actual.md:5:SOA
+content/Fase1 PR1.SOA Actual.md:5:SOA
+content/Fase1 PR1.SOA Actual.md:5:SOA
+content/Fase1 PR1.SOA Actual.md:5:tanto
+content/Fase1 PR1.SOA Actual.md:5:tecnologías
+content/Fase1 PR1.SOA Actual.md:7:Justificación
+content/Fase1 PR1.SOA Actual.md:8:análisis
+content/Fase1 PR1.SOA Actual.md:8:arquitectura
+content/Fase1 PR1.SOA Actual.md:8:arquitectura
+content/Fase1 PR1.SOA Actual.md:8:arquitectura
+content/Fase1 PR1.SOA Actual.md:8:el
+content/Fase1 PR1.SOA Actual.md:8:entre
+content/Fase1 PR1.SOA Actual.md:8:Fondo
+content/Fase1 PR1.SOA Actual.md:8:lograr
+content/Fase1 PR1.SOA Actual.md:8:negocio
+content/Fase1 PR1.SOA Actual.md:8:negocio
+content/Fase1 PR1.SOA Actual.md:8:por
+content/Fase1 PR1.SOA Actual.md:8:por
+content/Fase1 PR1.SOA Actual.md:8:servicios
+content/Fase1 PR1.SOA Actual.md:8:tecnología
+content/Fase1 PR1.SOA Actual.md:10:Contenidos
+content/Fase1 PR1.SOA Actual.md:12:FNA
+content/Fase1 PR1.SOA Actual.md:12:objetivos
+content/Fase1 PR1.SOA Actual.md:12:procesos
+content/Fase1 PR1.SOA Actual.md:12:productos
+content/Fase1 PR1.SOA Actual.md:12:SOA
+content/Fase1 PR1.SOA Actual.md:13:FNA
+content/Fase1 PR1.SOA Actual.md:13:Segmento
+content/Fase1 PR1.SOA Actual.md:13:SOA
+content/Fase1 PR1.SOA Actual.md:14:FNA
+content/Fase1 PR1.SOA Actual.md:14:seleccionados
+content/Fase1 PR1.SOA Actual.md:14:servicios
+content/Fase1 PR1.SOA Actual.md:15:SOA
+content/Fase1 PR1.SOA Actual.md:16:Capacidades
+content/Fase1 PR1.SOA Actual.md:16:FNA
+content/Fase1 PR1.SOA Actual.md:16:negocio
+content/Fase1 PR1.SOA Actual.md:16:servicios
+content/Fase1 PR1.SOA Actual.md:16:SOA
+content/Fase1 PR1.SOA Actual.md:17:aplicaciones
+content/Fase1 PR1.SOA Actual.md:17:servicios
+content/Fase1 PR1.SOA Actual.md:18:por
+content/Fase1 PR1.SOA Actual.md:18:servicios
+content/Fase1 PR1.SOA Actual.md:18:Servicios
+content/Fase1 PR1.SOA Actual.md:18:SOA
+content/Fase1 PR1.SOA Actual.md:19:FNA
+content/Fase1 PR1.SOA Actual.md:19:Servicios
+content/Fase1 PR1.SOA Actual.md:20:FNA
+content/Fase1 PR1.SOA Actual.md:20:FNA
+content/Fase1 PR1.SOA Actual.md:20:objetivos
+content/Fase1 PR1.SOA Actual.md:20:Procesos
+content/Fase1 PR1.SOA Actual.md:20:productos
+content/Fase1 PR1.SOA Actual.md:20:SOA
+content/Fase1 PR1.SOA Actual.md:21:Arquitectura
+content/Fase1 PR1.SOA Actual.md:21:FNA
+content/Fase1 PR1.SOA Actual.md:21:SOA
+content/Fase1 PR1.SOA Actual.md:23:aplicaciones
+content/Fase1 PR1.SOA Actual.md:26:negocio
+content/Fase1 PR1.SOA Actual.md:27:negocio
+content/Fase1 PR1.SOA Actual.md:28:servicios
+content/Fase1 PR1.SOA Actual.md:29:negocio
+content/Fase1 PR1.SOA Actual.md:29:por
+content/Fase1 PR1.SOA Actual.md:29:servicios
+content/Fase1 PR1.SOA Actual.md:30:FNA
+content/Fase1 PR1.SOA Actual.md:30:SOA
+content/Fase1 PR1.SOA Actual.md:31:Entre
+content/Fase1 PR1.SOA Actual.md:31:FNA
+content/Fase1 PR1.SOA Actual.md:31:Servicios
+content/Fase1 PR1.SOA Actual.md:31:SOA
+content/Fase1 PR1.SOA Actual.md:32:Tecnológica
+content/Fase1 PR1.SOA Actual.md:33:servicios
+content/Fase1 PR1.SOA Actual.md:33:tecnológico
+content/Fase1 PR1.SOA Actual.md:34:Análisis
+content/Fase1 PR1.SOA Actual.md:34:el
+content/Fase1 PR1.SOA Actual.md:34:FNA
+content/Fase1 PR1.SOA Actual.md:34:Madurez
+content/Fase1 PR1.SOA Actual.md:34:Presentación
+content/Fase1 PR1.SOA Actual.md:34:SOA
+content/Fase1 PR1.SOA Actual.md:35:análisis
+content/Fase1 PR1.SOA Actual.md:35:objetivos
+content/Fase1 PR1.SOA Actual.md:36:análisis
+content/Fase1 PR1.SOA Actual.md:37:madurez
+content/Fase1 PR1.SOA Actual.md:37:nivel
+content/Fase1 PR1.SOA Actual.md:37:SOA
+content/Fase1 PR1.SOA Actual.md:39:Aceptación
+content/Fase1 PR1.SOA Actual.md:39:Criterios
+content/Fase1 PR1.SOA Actual.md:41:negocio
+content/Fase1 PR1.SOA Actual.md:41:Tecnológica
+content/Fase1 PR1.SOA Actual.md:42:Análisis
+content/Fase1 PR1.SOA Actual.md:42:madurez
+content/Fase1 PR1.SOA Actual.md:42:nivel
+content/Fase1 PR1.SOA Actual.md:42:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:1:Estado
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:1:Fase
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:1:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:2:Contenido
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:2:Productos
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:4:FNA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:4:Madurez
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:4:Producto
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:4:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:Ahorro
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:consideraciones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:El
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:este
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:FNA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:Fondo
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:Fondo
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:gobierno
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:madurez
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:Nacional
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:negocio
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:objetivos
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:5:tanto
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:7:Justificación
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:arquitectura
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:el
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:el
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:el
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:el
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:el
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:FNA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:gobierno
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:madurez
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:madurez
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:nivel
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:producto
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:8:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:10:Contenidos
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:11:madurez
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:11:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:12:arquitectura
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:12:conclusiones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:12:Consideraciones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:12:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:13:conclusiones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:13:Consideraciones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:14:conclusiones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:14:Consideraciones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:14:gobierno
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:14:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:15:Fondo
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:15:Implicaciones
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:15:otros
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:17:Aceptación
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:17:Criterios
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:Análisis
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:criterios
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:el
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:evaluación
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:FNA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:madurez
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:nivel
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:por
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:propuestas
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:18:SOA
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:19:Análisis
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:19:Gobierno
+content/Fase1 PR2.Estudio Madurez SOA FNA.md:19:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:1:Estado
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:1:Fase
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:1:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:2:Contenido
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:2:Productos
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:4:FNA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:4:Producto
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:4:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:conclusiones
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:conclusiones
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:el
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:Estado
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:Fase
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:futuras
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:futuras
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:gobierno
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:oportunidades
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:otros
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:ruta
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:5:una
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:aplicaciones
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:dependencia
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:el
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:este
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:Nota
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:objetivos
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:producto
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:proveedor
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:provienen
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:proyecto
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:tiempo
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:7:únicamente
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:9:Justificación
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:arquitectura
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:arquitectura
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:conclusiones
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:el
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:el
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:el
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:El
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:estado
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:estado
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:FNA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:10:tanto
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:12:Contenidos
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:13:Análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:13:negocio
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:13:ROI
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:13:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:14:Análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:14:dependencia
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:14:FNA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:14:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:15:Análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:15:FNA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:15:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:16:Análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:16:gobierno
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:16:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:17:Análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:17:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:18:beneficios
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:18:Oportunidades
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:18:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:18:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:20:Aceptación
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:20:Criterios
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:Análisis
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:dependencia
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:el
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:negocio
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:objetivos
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:proveedor
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:SOA
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:21:tiempo
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:22:mejora
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:22:oportunidades
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:22:posibles
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:22:Presentación
+content/Fase1 PR3.Resultado Diagnóstico Situación Actual.md:22:SOA
