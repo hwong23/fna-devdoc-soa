@@ -34,5 +34,7 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 
 ## Source
 
+HWO
+
 The manuscripts in this directory were built from
 [`52c49cb7b512bf0c55796012815dfa7fb834d371`](https://github.com/hwong23/fna-devdoc-soa/commit/52c49cb7b512bf0c55796012815dfa7fb834d371).
