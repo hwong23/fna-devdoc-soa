@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-08'
+date-meta: '2023-01-09'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-08" />
-  <meta name="citation_publication_date" content="2023-01-08" />
-  <meta property="article:published_time" content="2023-01-08" />
-  <meta name="dc.modified" content="2023-01-08T23:09:30+00:00" />
-  <meta property="article:modified_time" content="2023-01-08T23:09:30+00:00" />
+  <meta name="dc.date" content="2023-01-09" />
+  <meta name="citation_publication_date" content="2023-01-09" />
+  <meta property="article:published_time" content="2023-01-09" />
+  <meta name="dc.modified" content="2023-01-09T04:24:38+00:00" />
+  <meta property="article:modified_time" content="2023-01-09T04:24:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/52c49cb7b512bf0c55796012815dfa7fb834d371/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/52c49cb7b512bf0c55796012815dfa7fb834d371/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/52c49cb7b512bf0c55796012815dfa7fb834d371/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/c151fa843a5e4c5fe09ec387528d5ad99e06780a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/c151fa843a5e4c5fe09ec387528d5ad99e06780a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/c151fa843a5e4c5fe09ec387528d5ad99e06780a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
