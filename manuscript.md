@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T01:21:49+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T01:21:49+00:00" />
+  <meta name="dc.modified" content="2023-01-10T01:30:33+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T01:30:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-soa/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-soa/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/d89f83ab26dddb970501c473c005082de24c8262/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/d89f83ab26dddb970501c473c005082de24c8262/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/d89f83ab26dddb970501c473c005082de24c8262/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-soa/v/67a8e235f75c56104fceb71471ed832a6c538e3b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/67a8e235f75c56104fceb71471ed832a6c538e3b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-soa/v/67a8e235f75c56104fceb71471ed832a6c538e3b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,12 +70,6 @@ Presentar la situación general SOA del Fondo Nacionnal del Ahorro (FNA) al año
 
 ## Justificación
 La arquitectura, organizada por vistas, se convierte en un medio de trabajo común entre negocio y tecnología. Adicionalmente, provee un vocabulario común y un espacio de análisis sobre las decisiones de arquitectura y su impacto en el negocio.  La estructura por vistas, es un estándar de organización de arquitectura  y se sugieren las mínimas necesarias para lograr comunicar de forma efectiva las decisiones relevantes que componen la propuesta de servicios actual del Fondo.
-
-``` 
-###### 
-
-The title above is a page break. 
-``` 
 
 ## Contenidos
 1. Descripción de la vista Funcional Actual
@@ -106,7 +100,11 @@ The title above is a page break.
 	* Dimensiones del análisis (OSIMM)
 	* Herramienta de diagnóstico de nivel de madurez SOA
 
-<div style="page-break-after: always;"></div>
+
+<div style="page-break-after: always;">
+aaa
+</div>
+
 
 ## Criterios de Aceptación
 
@@ -136,6 +134,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
    * Análisis del nivel de madurez SOA del FNA teniendo en cuenta las definiciones y criterios de evaluación de propuestas por el modelo OSIMM    
    * Análisis de las necesidades de integración y Gobierno SOA  
 
+***
 
 
 # Fase 1: Estado SOA Actual

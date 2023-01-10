@@ -10,7 +10,7 @@ Ahorro
 Alcance
 alinea
 alineación
-análisis
+Análisis
 analizar
 año
 aplicables
@@ -39,7 +39,7 @@ comunicar
 conclusiones
 concreto
 Conectores
-Consideraciones
+consideraciones
 constrastadas
 construir
 consultoría
@@ -50,7 +50,7 @@ Contractuales
 contribuir
 convierte
 Correspondencia
-Criterios
+criterios
 crítica
 críticas
 cualitativas
@@ -69,7 +69,7 @@ definiciones
 dependencia
 desarrollo
 Describir
-descripción
+Descripción
 desde
 destacan
 diagnóstico
@@ -83,7 +83,7 @@ ecosistema
 efectiva
 Efectividad
 ejercicio
-El
+el
 elementos
 empresas
 encaminar
@@ -102,7 +102,7 @@ este
 estos
 estrategia
 estructura
-estudio
+Estudio
 estudios
 Evaluación
 evaluar
@@ -117,7 +117,7 @@ Fondo
 forataleza
 forma
 fortalezas
-funcional
+Funcional
 funcionales
 futuras
 futuro
@@ -142,18 +142,18 @@ independencia
 independientes
 índices
 industria
-Información
+información
 infraestructura
 inicial
 iniciaticas
 iniciativas
 institucionalización
 insumo
-integración
+Integración
 intercambio
 Interop
 Interrelación
-Inventario
+inventario
 inversión
 Justificación
 justificar
@@ -162,7 +162,7 @@ Lista
 Listado
 lograr
 lugar
-madurez
+Madurez
 manera
 mantengan
 Marcha
@@ -188,7 +188,7 @@ negocio
 Nivel
 Niveles
 normas
-Normatividad
+normatividad
 Nota
 nuevos
 objetiva
@@ -197,7 +197,7 @@ objetivos
 objeto
 operan
 operativos
-Oportunidades
+oportunidades
 organización
 organizaciones
 organizada
@@ -217,8 +217,8 @@ Presentación
 Presentar
 proceso
 procesos
-Producto
-Productos
+producto
+productos
 propuesta
 propuestas
 propuesto
@@ -248,7 +248,7 @@ Resultado
 Resultados
 resumen
 Retornos
-Retos
+retos
 ROI
 ruta
 sectores
@@ -260,8 +260,8 @@ seleccionados
 señalar
 ser
 servicios
-sistemas
-situación
+Sistemas
+Situación
 SOA
 sobre
 sobresalientes
