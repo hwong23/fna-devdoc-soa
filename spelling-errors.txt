@@ -7,7 +7,7 @@ afines
 Ahorro
 Alcance
 alinea
-análisis
+Análisis
 año
 aplicables
 aplicación
@@ -18,11 +18,11 @@ arquitectura
 aspectos
 avances
 beneficios
-capacidades
+Capacidades
 Catálogo
 cómo
 comparar
-comparativa
+Comparativa
 componen
 comprendida
 común
@@ -93,7 +93,7 @@ Identificación
 Identificar
 impacto
 implementación
-implicaciones
+Implicaciones
 impulsen
 independencia
 independientes
@@ -118,7 +118,7 @@ Marcha
 Matriz
 medio
 mejor
-Mejora
+mejora
 Mejoras
 Método
 mínimas
@@ -134,7 +134,7 @@ negocio
 nivel
 Niveles
 normas
-Normatividad
+normatividad
 Nota
 Objetivo
 objetivos
@@ -154,9 +154,9 @@ posibles
 positivas
 Presentación
 Presentar
-Procesos
-producto
-Productos
+procesos
+Producto
+productos
 propuesta
 propuestas
 provee
@@ -172,7 +172,7 @@ ralizables
 referencia
 referencias
 referentes
-Regulatorios
+regulatorios
 relacionadas
 relacionados
 relevantes
@@ -189,8 +189,8 @@ selección
 seleccionadas
 seleccionados
 ser
-servicios
-Sistemas
+Servicios
+sistemas
 situación
 SOA
 sobre
@@ -205,7 +205,7 @@ técnicas
 tecnología
 tecnologías
 tecnológica
-Tecnológicas
+tecnológicas
 tecnológico
 tecnológicos
 tecnológoca
